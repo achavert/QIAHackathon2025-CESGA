@@ -17,4 +17,4 @@ Link to the 2025 challenges: https://github.com/qia-hackathon-2025/qia-hackathon
 ### Leader election
 
 ### QKD extension
-
+https://github.com/Guilleblaanco/QIA-hackaton
